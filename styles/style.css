@@ -114,7 +114,13 @@ hr {
   width: 95px;
   height: 30px;
   text-align: center;
-  border-radius: 40%;
+  border-radius: 15px;
+  color: #ff4a60;
+  font-size: 14px;
+  font-weight: 600;
+}
+.course-duration,
+span {
 }
 
 /* Media Queries  */
